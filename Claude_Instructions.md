@@ -21,7 +21,7 @@
 ## **Documents Available in This Project**
 
 * Current resume template: Jason\_J\_Garcia-RESUME.md
-* Current resume doc: Jason\_J\_Garcia-RESUME.doc
+* Current resume doc: Jason\_J\_Garcia-RESUME.docx
 * Current cover letter template: Jason\_J\_Garcia-COVERLETTER.md  
 * List of target companies: List of Target Companies.doc
 
