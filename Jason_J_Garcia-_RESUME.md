@@ -17,7 +17,7 @@ LinkedIn: https://www.linkedin.com/in/24-jason-j-garcia/
 Technical Program Manager with 10+ years of experience leading large-scale, cross-functional programs in high-growth technology environments. Proven track record in driving strategic initiatives, operational excellence, and organizational change across hardware, software, and research domains. Expert in managing multi-disciplinary teams, optimizing processes, and leveraging technology and AI to deliver scalable solutions. Adept at managing complex programs, fostering alignment across business functions, and communicating effectively with executive stakeholders.
 </div>
 
-<div align="center">
+<div style="text-align: center;">
 
 ## **Experience**
 
@@ -25,7 +25,7 @@ Technical Program Manager with 10+ years of experience leading large-scale, cros
 
 <div style="margin-top: 25px;">
 
-**Meta RL - Eye Tracking**<span align="right">Redmond, WA</span><br>
+**Meta RL - Eye Tracking**<span style="float: right;">Redmond, WA</span><br>
 *Technical Program Manager*<span style="float: right;">October 2023 - Present</span>
 
 <div style="text-align: justify; margin-top: 0px;">
