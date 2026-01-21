@@ -17,7 +17,7 @@ LinkedIn: https://www.linkedin.com/in/24-jason-j-garcia/
 Technical Program Manager with 10+ years of experience leading large-scale, cross-functional programs in high-growth technology environments. Proven track record in driving strategic initiatives, operational excellence, and organizational change across hardware, software, and research domains. Expert in managing multi-disciplinary teams, optimizing processes, and leveraging technology and AI to deliver scalable solutions. Adept at managing complex programs, fostering alignment across business functions, and communicating effectively with executive stakeholders.
 </div>
 
-<div style="align: center;">
+<div align="center">
 
 ## **Experience**
 
