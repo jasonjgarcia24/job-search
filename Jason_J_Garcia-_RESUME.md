@@ -25,7 +25,7 @@ Technical Program Manager with 10+ years of experience leading large-scale, cros
 
 <div style="margin-top: 25px;">
 
-**Meta RL - Eye Tracking**<span style="float: right;">Redmond, WA</span><br>
+**Meta RL - Eye Tracking**<span align="right">Redmond, WA</span><br>
 *Technical Program Manager*<span style="float: right;">October 2023 - Present</span>
 
 <div style="text-align: justify; margin-top: 0px;">
