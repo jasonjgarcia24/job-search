@@ -1,17 +1,10 @@
 # Job Search Workspace
 
-AI-assisted job search workspace for Technical Program Manager positions leveraging Claude AI to create ATS-optimized application materials.
+AI-assisted job search workspace leveraging Claude AI to create ATS-optimized application materials.
 
 ## About This Repository
 
-This repository contains templates and tools for managing a targeted job search focused on **Technical Program Manager**, **Senior Integration Engineer**, and **Engineering Program Manager** roles in the Tech, Aerospace & Defense, and Outdoors industries.
-
-**Target Profile:**
-- **Level:** Senior or higher
-- **Industries:** Tech (AI-focused companies preferred), Aerospace & Defense, Outdoors
-- **Location:** Seattle, WA + Western USA (Colorado, Utah, Idaho)
-- **Work Arrangement:** Remote or hybrid preferred
-- **Key Focus:** Cross-functional program management, camera/sensor development, vendor management, budget planning
+This repository contains templates and tools for managing a targeted job search.
 
 ## Repository Structure
 
@@ -27,32 +20,61 @@ job-search/
 ## Core Templates
 
 ### Resume Template
-[Jason_J_Garcia-_RESUME.md](Jason_J_Garcia-_RESUME.md) - ATS-optimized resume template highlighting 10+ years of experience in Technical Program Management and Systems Engineering.
+[Jason_J_Garcia-_RESUME.md](Jason_J_Garcia-_RESUME.md) - Customizable, ATS-optimized resume template and baseline experience.
 
 **Key Features:**
 - Formatted for LinkedIn Parsing System (LPS) compatibility
 - Quantifiable metrics and achievements
-- Targeted keywords for TPM/EPM roles
 - Consistent professional styling
 
 ### Cover Letter Template
 [Jason_J_Garcia-COVERLETTER.md](Jason_J_Garcia-COVERLETTER.md) - Customizable cover letter template with guidance for personalization.
 
 **Usage Guidelines:**
-- Copy template for each application
-- Save as `COMPANYNAME-COVERLETTER.md` or `.doc` (automatically git-ignored)
-- Tailor opening paragraph with company research
-- Highlight 2-3 relevant accomplishments with metrics
-- Align career goals with company mission
+- Create Claude project for job searching
+- Paste `Claude_Instructions.md` content into the created project's instructions 
+- Add template documents to Claude project
+- Use the `EXAMPLE-List of Target Companies.docx` to create a `List of Target Companies.docx`
+- Add `List of Target Companies.docx` document to Claude project
 
-### Company Tracking
-[EXAMPLE-List of Target Companies.docx](EXAMPLE-List of Target Companies.docx) - Structured tracking document for managing application pipeline.
+## Common Claude Project Interaction
 
-**Includes:**
-- Priority-based company organization
-- Application status tracking
-- Networking contact management
-- Follow-up reminders
+### Example Resume and Cover Letter Tailoring:
+```text
+Using the pasted job role, create a tailored resume and cover letter for my application.
+```
+
+### Example Claude Analysis Output
+
+> When you paste a job description, Claude analyzes the role and provides comprehensive insights:
+>
+> **Key Job Requirements Analysis:**
+> - Identifies technical requirements and maps them to your experience
+> - Highlights required skills (e.g., TPM experience, cross-functional leadership)
+> - Verifies alignment with preferred qualifications
+> - Notes any clearance or certification requirements
+>
+> **Strong Alignment Points:**
+>
+> Claude identifies specific areas where your background directly matches the role:
+> 1. **Domain-Specific Experience**: Maps your current and past roles to job requirements (e.g., edge compute systems, defense sector work, hardware/software integration)
+> 2. **Quantifiable Achievements**: Highlights metrics from your background (budget scope, team size, cross-functional coordination scale)
+> 3. **Technical Breadth**: Shows how your SW/HW/Test experience meets multi-disciplinary requirements
+> 4. **Field Experience**: Connects deployment and travel experience to role requirements
+>
+> **ATS Optimization Strategy:**
+> - **Keyword Integration**: Incorporates essential terms from job posting (e.g., "cross-functional," "agile methodology," "customer-facing," "prototype deployment")
+> - **Skills Matching**: Explicitly aligns your years of experience with requirements
+> - **Achievement Quantification**: Emphasizes metrics like budget size, team count, scope of coordination
+>
+> **Gap Identification:**
+>
+> Claude identifies potential gaps (e.g., specific clearance levels, preferred certifications) and suggests how to address them in interviews or applications.
+>
+> **Salary & Fit Analysis:**
+>
+> Compares posted salary range with your target, evaluates alignment with career goals (e.g., senior level, mission-driven work, growth company trajectory).
+
 
 ## Application Workflow
 
