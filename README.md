@@ -2,6 +2,25 @@
 
 AI-assisted job search workspace leveraging Claude AI to create ATS-optimized application materials.
 
+## Table of Contents
+
+- [About This Repository](#about-this-repository)
+- [Repository Structure](#repository-structure)
+- [Core Templates](#core-templates)
+  - [Resume Template](#resume-template)
+  - [Cover Letter Template](#cover-letter-template)
+- [Common Claude Project Interaction](#common-claude-project-interaction)
+  - [Example Resume and Cover Letter Tailoring](#example-resume-and-cover-letter-tailoring)
+  - [Example Claude Analysis Output](#example-claude-analysis-output)
+- [Application Workflow](#application-workflow)
+  - [1. Research & Targeting](#1-research--targeting)
+  - [2. Tailor Application Materials](#2-tailor-application-materials)
+  - [3. Apply & Track](#3-apply--track)
+  - [4. Follow Up](#4-follow-up)
+- [Git Ignored Files](#git-ignored-files)
+- [Claude AI Integration](#claude-ai-integration)
+- [Professional Profile](#professional-profile)
+
 ## About This Repository
 
 This repository contains templates and tools for managing a targeted job search.
@@ -39,14 +58,15 @@ job-search/
 
 ## Common Claude Project Interaction
 
-### Example Resume and Cover Letter Tailoring:
-```text
-Using the pasted job role, create a tailored resume and cover letter for my application.
-```
+### Example Resume and Cover Letter Tailoring Input:
+> Using the pasted job role, create a tailored resume and cover letter for my application.
 
 ### Example Claude Analysis Output
 
-> When you paste a job description, Claude analyzes the role and provides comprehensive insights:
+> I'll create tailored application materials for this Anduril Senior Technical Program Manager role. Let me start by reading the relevant skill documentation to ensure the best quality output.
+>> Reading the docx skill to create a high-quality resume document
+>
+> Now I'll analyze the job description and create tailored materials. Let me break down the key requirements and how your experience maps to them:
 >
 > **Key Job Requirements Analysis:**
 > - Identifies technical requirements and maps them to your experience
@@ -67,6 +87,23 @@ Using the pasted job role, create a tailored resume and cover letter for my appl
 > - **Skills Matching**: Explicitly aligns your years of experience with requirements
 > - **Achievement Quantification**: Emphasizes metrics like budget size, team count, scope of coordination
 >
+>
+> Now I'll create both documents with ATS optimization in mind.Hide stepsInstalling docx package for creating Word documentsbashnpm install -g docxOutput
+changed 22 packages in 6s
+>> Creating tailored resume for Anduril Senior TPM role with ATS optimization
+>>
+>> Generating the tailored resume
+>>
+>> Creating tailored cover letter for Anduril Senior TPM
+>>
+>> Generating the cover letter document
+>>
+>> OutputCover letter created successfully
+>>
+>> Moving final documents to outputs directory
+>>
+>> Presented 2 files
+>
 > **Gap Identification:**
 >
 > Claude identifies potential gaps (e.g., specific clearance levels, preferred certifications) and suggests how to address them in interviews or applications.
@@ -74,7 +111,10 @@ Using the pasted job role, create a tailored resume and cover letter for my appl
 > **Salary & Fit Analysis:**
 >
 > Compares posted salary range with your target, evaluates alignment with career goals (e.g., senior level, mission-driven work, growth company trajectory).
-
+>
+>> Jason garcia anduril resume
+>>
+>> Jason garcia anduril coverletter
 
 ## Application Workflow
 

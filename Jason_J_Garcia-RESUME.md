@@ -9,7 +9,7 @@ LinkedIn: https://www.linkedin.com/in/24-jason-j-garcia/
 
 <div style="text-align: center;">
 
-## **Summary**
+## Summary
 
 </div>
 
@@ -19,7 +19,7 @@ Technical Program Manager with 10+ years of experience leading large-scale, cros
 
 <div style="text-align: center;">
 
-## **Experience**
+## Experience
 
 </div>
 
@@ -137,7 +137,7 @@ Technical Program Manager with 10+ years of experience leading large-scale, cros
 
 <div style="text-align: center;">
 
-## **Technical Skills**
+## Technical Skills
 
 </div>
 
@@ -155,7 +155,7 @@ Technical Program Manager with 10+ years of experience leading large-scale, cros
 
 <div style="text-align: center;">
 
-## **Education**
+## Education
 
 </div>
 
