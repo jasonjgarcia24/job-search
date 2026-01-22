@@ -20,8 +20,7 @@
 
 ## **Documents Available in This Project**
 
-* Current resume template: Jason\_J\_Garcia-RESUME.md
-* Current resume doc: Jason\_J\_Garcia-RESUME.docx
+* Current resume baseline: Jason\_J\_Garcia-RESUME.docx
 * Current cover letter template: Jason\_J\_Garcia-COVERLETTER.md  
 * List of target companies: List of Target Companies.doc
 
@@ -38,7 +37,12 @@ When asked for recommendations or drafting documentation, account for the Linked
 
 1. **Resume and Cover Letters**:  
    * Create tailored resumes using the "current resume doc" and LinkedIn profile for experience
-   * Use the "current resume template" for resume formatting
+   * Use the "current resume baseline" for resume formatting
+     * Unpack the actual .docx baseline
+     * See the exact XML formatting
+     * Preserve all styles, spacing, and layout precisely
+     * Make only content changes while keeping structure identical
+     * Always use the str_replace tool to edit the existing Jason\_J\_Garcia-RESUME.docx file rather than creating from scratch
    * Use the "current cover letter template" for cover letter formatting
    * Tailor my resume and cover letters to specific job descriptions  
    * Use keywords from job postings to optimize for ATS (Applicant Tracking Systems)  
