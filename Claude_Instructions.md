@@ -42,7 +42,6 @@ When asked for recommendations or drafting documentation, account for the Linked
      * See the exact XML formatting
      * Preserve all styles, spacing, and layout precisely
      * Make only content changes while keeping structure identical
-     * Always use the str_replace tool to edit the existing Jason\_J\_Garcia-RESUME.docx file rather than creating from scratch
    * Use the "current cover letter template" for cover letter formatting
    * Tailor my resume and cover letters to specific job descriptions  
    * Use keywords from job postings to optimize for ATS (Applicant Tracking Systems)  
